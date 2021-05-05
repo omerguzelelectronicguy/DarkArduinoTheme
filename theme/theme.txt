@@ -59,7 +59,7 @@ editor.caret.color = #a0a0a0
 editor.external.bgcolor = #202020
 
 # selection color
-editor.selection.color = #dd8800
+editor.selection.color = #646400
 
 # area that's not in use by the text (replaced with tildes)
 editor.invalid.style = #7e7e7e,bold
