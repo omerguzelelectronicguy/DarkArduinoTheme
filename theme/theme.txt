@@ -14,7 +14,7 @@ status.notice.bgcolor = #404040
 status.error.fgcolor = #FFFFFF
 status.error.bgcolor = #E34C00
 status.edit.fgcolor = #FFFFFF
-status.edit.bgcolor = #F1B500
+status.edit.bgcolor = #000000
 status.font = SansSerif,plain,12
 
 # GUI - TABS
@@ -45,7 +45,7 @@ linestatus.bgcolor = #404040
 
 # foreground and background colors
 editor.fgcolor = #d9d9d9
-editor.bgcolor = #202020
+editor.bgcolor = #000000
 
 # highlight for the current line
 editor.linehighlight.color=#333333
